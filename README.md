@@ -1,2 +1,2 @@
 # coursera-test
-theme:Architecture
+theme: jekyll-theme-architect
